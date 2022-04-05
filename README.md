@@ -11,8 +11,8 @@ class Person extends Human
 {
   public string $name = "Pragnesh Chauhan";
   public string $description = "I am a full-stack PHP developer with over 10 years of experience, 
-        I am mostly working with Laravel, CodeIgniter, VueJs and wordpress sometime.";
-  public array $techstack = ['PHP', 'Laravel', 'CodeIgniter', "VueJs", 'WordPress'];
+        I am love to working with Laravel, CodeIgniter, VueJs.";
+  public array $techstack = ['PHP', 'Laravel', 'CodeIgniter', 'VueJs'];
   public array $learningstack = ['Flutter', 'Svelte'];
 }
 ?>
